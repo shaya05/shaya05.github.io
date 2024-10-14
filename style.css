@@ -1,5 +1,7 @@
 html {
 
-  cursor: url(
+  cursor: url(sparkle-cursor.png), default;
+  background-color: #FFEFF1;
+  
 
 }
