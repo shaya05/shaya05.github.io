@@ -1,6 +1,6 @@
 html {
     
-    cursor: url("assets/cursor/sparkle-cursor.png"), default; /* Custom cursor */
+    cursor: url(assets/cursors/sparkle-cursor.png), default; /* Custom cursor */
     background-color: #FFEFF1;
     
 }
