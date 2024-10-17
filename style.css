@@ -2,3 +2,7 @@ html {
     cursor: url(assets/cursors/lightDefault.png), default; /* Custom cursor */
     
 }
+
+button:hover {
+    cursor: url(assets/cursors/lightLink.png), default;
+}
